@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Room DJ</string>
+    <string name="action_settings">Settings</string>
+    <string name="DJ_Host">DJ Host</string>
+    <string name="DJ_Guest">DJ Guest</string>
+    <string name="title_activity_djhost">djhost</string>
+    <string name="confirmUsername">Confirm</string>
+</resources>
